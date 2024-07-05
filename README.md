@@ -41,3 +41,9 @@ $ npm run test:cov
 $ docker-compose up -d
 
 ```
+
+## Run migration Prisma:
+
+```bash
+  npx prisma migrate dev --name init
+```
