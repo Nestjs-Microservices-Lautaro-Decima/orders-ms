@@ -42,6 +42,12 @@ $ docker-compose up -d
 
 ```
 
+## Generate migration Prisma:
+
+```
+npx prisma generate
+```
+
 ## Run migration Prisma:
 
 ```bash
